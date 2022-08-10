@@ -22,7 +22,7 @@ Re-Escribir usando el operador de potencia.
 lado_cuadrado = 5
 
 # COMPLETAR - INICIO
-
+area_cuadrado = 3
 # COMPLETAR - FIN
 
 assert area_cuadrado == 25
