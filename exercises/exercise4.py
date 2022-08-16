@@ -42,7 +42,7 @@ numero_octal = "0o1425"
 numero_hexadecimal = "0x6f540"
 
 # COMPLETAR - INICIO
-
+multiplicacion_de_numeros =(int(numero_binario)*int(numero_octal)* int(numero_hexadecimal))
 # COMPLETAR - FIN
 
 assert multiplicacion_de_numeros == 44397345600000000
@@ -59,7 +59,7 @@ numero_03 = "0o1234"
 numero_04 = 654
 
 # COMPLETAR - INICIO
-
+resultado_resta= (int(numero_01) - int(numero_02) - int(numero_03) - numero_04)
 # COMPLETAR - FIN
 
 assert resultado_resta == -456350
