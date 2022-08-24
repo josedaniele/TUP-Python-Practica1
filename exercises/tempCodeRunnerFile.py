@@ -1,0 +1,1 @@
+"casa", "perro", "pato", "gato"
