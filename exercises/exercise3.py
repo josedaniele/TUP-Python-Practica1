@@ -6,8 +6,6 @@ True si 2 personas tienen el mismo nombre pero distinta edad.
 Aclaración: Se puede utilizar and, or y not.
 """
 
-from multiprocessing.util import sub_debug
-
 
 persona_01 = "Kevin"
 edad_01 = 24
