@@ -59,7 +59,7 @@ numero_03 = "0o1234"
 numero_04 = 654
 
 # COMPLETAR - INICIO
-resultado_resta= (int(numero_01) - int(numero_02) - int(numero_03) - numero_04)
+resultado_resta= (int(numero_01) - int(numero_02,16) - int(numero_03,8) - numero_04)
 # COMPLETAR - FIN
 
 assert resultado_resta == -456350
